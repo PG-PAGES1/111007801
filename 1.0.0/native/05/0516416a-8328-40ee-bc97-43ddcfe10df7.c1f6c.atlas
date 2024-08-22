@@ -1,0 +1,964 @@
+
+bg.png
+size: 2035,2036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+free/fs_bg_water/bns_bg_water_00
+  rotate: false
+  xy: 1, 70
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_01
+  rotate: false
+  xy: 171, 70
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_02
+  rotate: false
+  xy: 341, 70
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_03
+  rotate: true
+  xy: 543, 1069
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_04
+  rotate: true
+  xy: 878, 1069
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_05
+  rotate: true
+  xy: 1213, 1166
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_06
+  rotate: true
+  xy: 1213, 996
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_08
+  rotate: false
+  xy: 1548, 1001
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_09
+  rotate: false
+  xy: 511, 70
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_10
+  rotate: false
+  xy: 1718, 1164
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_11
+  rotate: false
+  xy: 535, 727
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_12
+  rotate: false
+  xy: 705, 734
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_13
+  rotate: false
+  xy: 875, 734
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_14
+  rotate: true
+  xy: 1107, 826
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_15
+  rotate: true
+  xy: 1107, 656
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_16
+  rotate: false
+  xy: 1442, 661
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_17
+  rotate: false
+  xy: 1612, 666
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_18
+  rotate: true
+  xy: 705, 564
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_bg_water/bns_bg_water_19
+  rotate: true
+  xy: 1040, 486
+  size: 168, 333
+  orig: 169, 335
+  offset: 0, 1
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_00
+  rotate: true
+  xy: 1649, 93
+  size: 56, 290
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_04
+  rotate: true
+  xy: 1016, 26
+  size: 56, 291
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_05
+  rotate: true
+  xy: 1356, 93
+  size: 56, 291
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_06
+  rotate: true
+  xy: 589, 1
+  size: 56, 291
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_lamp/bns_lights_top_00
+  rotate: false
+  xy: 1085, 1625
+  size: 540, 70
+  orig: 540, 74
+  offset: 0, 0
+  index: -1
+free/fs_lamp/bns_lights_top_01
+  rotate: false
+  xy: 1, 1353
+  size: 540, 70
+  orig: 540, 74
+  offset: 0, 0
+  index: -1
+free/fs_lamp/bns_lights_top_02
+  rotate: false
+  xy: 543, 1456
+  size: 540, 70
+  orig: 540, 74
+  offset: 0, 0
+  index: -1
+free/fs_lamp/bns_lights_top_03
+  rotate: false
+  xy: 1085, 1553
+  size: 540, 70
+  orig: 540, 74
+  offset: 0, 0
+  index: -1
+free/fs_lamp/bns_lights_top_04
+  rotate: false
+  xy: 1, 1210
+  size: 540, 69
+  orig: 540, 74
+  offset: 0, 0
+  index: -1
+free/fs_lamp/bns_lights_top_05
+  rotate: false
+  xy: 543, 1313
+  size: 540, 69
+  orig: 540, 74
+  offset: 0, 0
+  index: -1
+free/fs_lamp/bns_lights_top_06
+  rotate: false
+  xy: 1085, 1410
+  size: 540, 69
+  orig: 540, 74
+  offset: 0, 0
+  index: -1
+free/fs_lamp/bns_lights_top_07
+  rotate: false
+  xy: 1, 1281
+  size: 540, 70
+  orig: 540, 74
+  offset: 0, 0
+  index: -1
+free/fs_lamp/bns_lights_top_08
+  rotate: false
+  xy: 543, 1384
+  size: 540, 70
+  orig: 540, 74
+  offset: 0, 0
+  index: -1
+free/fs_lamp/bns_lights_top_09
+  rotate: false
+  xy: 1085, 1481
+  size: 540, 70
+  orig: 540, 74
+  offset: 0, 0
+  index: -1
+free/fs_lamp/bns_lights_top_10
+  rotate: true
+  xy: 1627, 1495
+  size: 540, 70
+  orig: 540, 74
+  offset: 0, 0
+  index: -1
+free/fs_rope/bns_lights_btm_00
+  rotate: false
+  xy: 1, 1946
+  size: 540, 89
+  orig: 540, 96
+  offset: 0, 0
+  index: -1
+free/fs_rope/bns_lights_btm_10
+  rotate: false
+  xy: 1, 1946
+  size: 540, 89
+  orig: 540, 96
+  offset: 0, 0
+  index: -1
+free/fs_rope/bns_lights_btm_01
+  rotate: false
+  xy: 1, 1855
+  size: 540, 89
+  orig: 540, 96
+  offset: 0, 0
+  index: -1
+free/fs_rope/bns_lights_btm_02
+  rotate: false
+  xy: 543, 1946
+  size: 540, 89
+  orig: 540, 96
+  offset: 0, 0
+  index: -1
+free/fs_rope/bns_lights_btm_03
+  rotate: false
+  xy: 1, 1764
+  size: 540, 89
+  orig: 540, 96
+  offset: 0, 0
+  index: -1
+free/fs_rope/bns_lights_btm_04
+  rotate: false
+  xy: 543, 1855
+  size: 540, 89
+  orig: 540, 96
+  offset: 0, 0
+  index: -1
+free/fs_rope/bns_lights_btm_05
+  rotate: false
+  xy: 1085, 1946
+  size: 540, 89
+  orig: 540, 96
+  offset: 0, 0
+  index: -1
+free/fs_rope/bns_lights_btm_06
+  rotate: false
+  xy: 1, 1673
+  size: 540, 89
+  orig: 540, 96
+  offset: 0, 0
+  index: -1
+free/fs_rope/bns_lights_btm_07
+  rotate: false
+  xy: 543, 1764
+  size: 540, 89
+  orig: 540, 96
+  offset: 0, 0
+  index: -1
+free/fs_rope/bns_lights_btm_08
+  rotate: false
+  xy: 1085, 1855
+  size: 540, 89
+  orig: 540, 96
+  offset: 0, 0
+  index: -1
+free/fs_rope/bns_lights_btm_09
+  rotate: false
+  xy: 1, 1582
+  size: 540, 89
+  orig: 540, 96
+  offset: 0, 0
+  index: -1
+normo/mg_bg_water/ui_bg_water_00
+  rotate: false
+  xy: 681, 229
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_01
+  rotate: false
+  xy: 851, 229
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_02
+  rotate: true
+  xy: 681, 59
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_03
+  rotate: true
+  xy: 1021, 316
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_04
+  rotate: true
+  xy: 1021, 146
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_05
+  rotate: false
+  xy: 1356, 151
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_06
+  rotate: true
+  xy: 1375, 486
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_07
+  rotate: false
+  xy: 1526, 151
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_08
+  rotate: false
+  xy: 1696, 151
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_09
+  rotate: false
+  xy: 1782, 829
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_10
+  rotate: false
+  xy: 1782, 494
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_11
+  rotate: false
+  xy: 1866, 159
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_00
+  rotate: false
+  xy: 1952, 916
+  size: 59, 291
+  orig: 122, 310
+  offset: 63, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_01
+  rotate: false
+  xy: 1952, 623
+  size: 59, 291
+  orig: 122, 310
+  offset: 63, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_02
+  rotate: true
+  xy: 1016, 84
+  size: 60, 291
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_03
+  rotate: true
+  xy: 1309, 31
+  size: 60, 291
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_04
+  rotate: true
+  xy: 1602, 31
+  size: 60, 291
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_05
+  rotate: true
+  xy: 1, 8
+  size: 60, 292
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_09
+  rotate: true
+  xy: 295, 8
+  size: 60, 292
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_10
+  rotate: false
+  xy: 535, 433
+  size: 60, 292
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_11
+  rotate: false
+  xy: 1045, 775
+  size: 60, 292
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_12
+  rotate: false
+  xy: 597, 433
+  size: 60, 292
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_13
+  rotate: false
+  xy: 1888, 1205
+  size: 60, 292
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_14
+  rotate: false
+  xy: 1950, 1209
+  size: 60, 292
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_rope/bns_flag_top_00
+  rotate: true
+  xy: 1847, 1499
+  size: 536, 71
+  orig: 540, 76
+  offset: 4, 5
+  index: -1
+normo/mg_rope/bns_flag_top_10
+  rotate: true
+  xy: 1847, 1499
+  size: 536, 71
+  orig: 540, 76
+  offset: 4, 5
+  index: -1
+normo/mg_rope/bns_flag_top_01
+  rotate: true
+  xy: 1699, 1499
+  size: 536, 72
+  orig: 540, 76
+  offset: 4, 4
+  index: -1
+normo/mg_rope/bns_flag_top_09
+  rotate: true
+  xy: 1699, 1499
+  size: 536, 72
+  orig: 540, 76
+  offset: 4, 4
+  index: -1
+normo/mg_rope/bns_flag_top_02
+  rotate: false
+  xy: 1, 1136
+  size: 536, 72
+  orig: 540, 76
+  offset: 4, 4
+  index: -1
+normo/mg_rope/bns_flag_top_08
+  rotate: false
+  xy: 1, 1136
+  size: 536, 72
+  orig: 540, 76
+  offset: 4, 4
+  index: -1
+normo/mg_rope/bns_flag_top_03
+  rotate: false
+  xy: 543, 1239
+  size: 536, 72
+  orig: 540, 76
+  offset: 4, 4
+  index: -1
+normo/mg_rope/bns_flag_top_07
+  rotate: false
+  xy: 543, 1239
+  size: 536, 72
+  orig: 540, 76
+  offset: 4, 4
+  index: -1
+normo/mg_rope/bns_flag_top_04
+  rotate: false
+  xy: 1085, 1336
+  size: 536, 72
+  orig: 540, 76
+  offset: 4, 4
+  index: -1
+normo/mg_rope/bns_flag_top_05
+  rotate: true
+  xy: 1773, 1499
+  size: 536, 72
+  orig: 540, 76
+  offset: 4, 4
+  index: -1
+normo/mg_rope/bns_flag_top_06
+  rotate: false
+  xy: 1, 1062
+  size: 536, 72
+  orig: 540, 76
+  offset: 4, 4
+  index: -1
+normo/mg_rope_01/ui_flag_top_00
+  rotate: false
+  xy: 1, 989
+  size: 532, 71
+  orig: 540, 71
+  offset: 4, 0
+  index: -1
+normo/mg_rope_01/ui_flag_top_10
+  rotate: false
+  xy: 1, 989
+  size: 532, 71
+  orig: 540, 71
+  offset: 4, 0
+  index: -1
+normo/mg_rope_01/ui_flag_top_01
+  rotate: true
+  xy: 1920, 1503
+  size: 532, 71
+  orig: 540, 71
+  offset: 4, 0
+  index: -1
+normo/mg_rope_01/ui_flag_top_02
+  rotate: false
+  xy: 1, 916
+  size: 532, 71
+  orig: 540, 71
+  offset: 4, 0
+  index: -1
+normo/mg_rope_01/ui_flag_top_03
+  rotate: false
+  xy: 1, 843
+  size: 532, 71
+  orig: 540, 71
+  offset: 4, 0
+  index: -1
+normo/mg_rope_01/ui_flag_top_04
+  rotate: false
+  xy: 1, 770
+  size: 532, 71
+  orig: 540, 71
+  offset: 4, 0
+  index: -1
+normo/mg_rope_01/ui_flag_top_05
+  rotate: false
+  xy: 1, 697
+  size: 532, 71
+  orig: 540, 71
+  offset: 4, 0
+  index: -1
+normo/mg_rope_01/ui_flag_top_06
+  rotate: false
+  xy: 1, 624
+  size: 532, 71
+  orig: 540, 71
+  offset: 4, 0
+  index: -1
+normo/mg_rope_01/ui_flag_top_07
+  rotate: false
+  xy: 1, 551
+  size: 532, 71
+  orig: 540, 71
+  offset: 4, 0
+  index: -1
+normo/mg_rope_01/ui_flag_top_08
+  rotate: false
+  xy: 1, 478
+  size: 532, 71
+  orig: 540, 71
+  offset: 4, 0
+  index: -1
+normo/mg_rope_01/ui_flag_top_09
+  rotate: false
+  xy: 1, 405
+  size: 532, 71
+  orig: 540, 71
+  offset: 4, 0
+  index: -1
+normo/mg_rope_02/ui_flag_btm_00
+  rotate: false
+  xy: 1, 1425
+  size: 540, 76
+  orig: 540, 84
+  offset: 0, 4
+  index: -1
+normo/mg_rope_02/ui_flag_btm_10
+  rotate: false
+  xy: 1, 1425
+  size: 540, 76
+  orig: 540, 84
+  offset: 0, 4
+  index: -1
+normo/mg_rope_02/ui_flag_btm_01
+  rotate: false
+  xy: 543, 1528
+  size: 540, 76
+  orig: 540, 84
+  offset: 0, 4
+  index: -1
+normo/mg_rope_02/ui_flag_btm_09
+  rotate: false
+  xy: 543, 1528
+  size: 540, 76
+  orig: 540, 84
+  offset: 0, 4
+  index: -1
+normo/mg_rope_02/ui_flag_btm_02
+  rotate: false
+  xy: 543, 1685
+  size: 540, 77
+  orig: 540, 84
+  offset: 0, 3
+  index: -1
+normo/mg_rope_02/ui_flag_btm_08
+  rotate: false
+  xy: 543, 1685
+  size: 540, 77
+  orig: 540, 84
+  offset: 0, 3
+  index: -1
+normo/mg_rope_02/ui_flag_btm_03
+  rotate: false
+  xy: 1085, 1776
+  size: 540, 77
+  orig: 540, 84
+  offset: 0, 3
+  index: -1
+normo/mg_rope_02/ui_flag_btm_07
+  rotate: false
+  xy: 1085, 1776
+  size: 540, 77
+  orig: 540, 84
+  offset: 0, 3
+  index: -1
+normo/mg_rope_02/ui_flag_btm_04
+  rotate: false
+  xy: 1, 1503
+  size: 540, 77
+  orig: 540, 84
+  offset: 0, 3
+  index: -1
+normo/mg_rope_02/ui_flag_btm_05
+  rotate: false
+  xy: 543, 1606
+  size: 540, 77
+  orig: 540, 84
+  offset: 0, 3
+  index: -1
+normo/mg_rope_02/ui_flag_btm_06
+  rotate: false
+  xy: 1085, 1697
+  size: 540, 77
+  orig: 540, 84
+  offset: 0, 3
+  index: -1
+
+bg2.png
+size: 1278,728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+free/fs_building_reflect/bns_bg_reflect_01
+  rotate: false
+  xy: 1102, 144
+  size: 56, 290
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_02
+  rotate: false
+  xy: 1163, 437
+  size: 56, 290
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_03
+  rotate: false
+  xy: 1221, 437
+  size: 56, 290
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_07
+  rotate: true
+  xy: 1, 1
+  size: 56, 291
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_08
+  rotate: false
+  xy: 928, 143
+  size: 56, 291
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_09
+  rotate: true
+  xy: 681, 85
+  size: 56, 291
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_10
+  rotate: false
+  xy: 989, 436
+  size: 56, 291
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_11
+  rotate: true
+  xy: 294, 1
+  size: 56, 291
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_12
+  rotate: false
+  xy: 986, 143
+  size: 56, 291
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_13
+  rotate: false
+  xy: 1047, 436
+  size: 56, 291
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_14
+  rotate: false
+  xy: 1044, 143
+  size: 56, 291
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_15
+  rotate: false
+  xy: 1105, 436
+  size: 56, 291
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_16
+  rotate: true
+  xy: 681, 27
+  size: 56, 290
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_17
+  rotate: false
+  xy: 1160, 144
+  size: 56, 290
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_18
+  rotate: false
+  xy: 1218, 145
+  size: 56, 290
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_19
+  rotate: true
+  xy: 974, 85
+  size: 56, 290
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+free/fs_building_reflect/bns_bg_reflect_20
+  rotate: true
+  xy: 973, 27
+  size: 56, 290
+  orig: 56, 292
+  offset: 0, 0
+  index: -1
+normo/mg_bg_water/ui_bg_water_12
+  rotate: false
+  xy: 1, 394
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_13
+  rotate: false
+  xy: 1, 59
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_14
+  rotate: false
+  xy: 171, 394
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_15
+  rotate: false
+  xy: 171, 59
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_16
+  rotate: false
+  xy: 341, 394
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_17
+  rotate: false
+  xy: 341, 59
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_18
+  rotate: false
+  xy: 511, 394
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_bg_water/ui_bg_water_19
+  rotate: false
+  xy: 511, 59
+  size: 168, 333
+  orig: 168, 334
+  offset: 0, 1
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_06
+  rotate: false
+  xy: 681, 436
+  size: 60, 291
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_07
+  rotate: false
+  xy: 681, 143
+  size: 60, 291
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_08
+  rotate: false
+  xy: 743, 436
+  size: 60, 291
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_15
+  rotate: false
+  xy: 743, 143
+  size: 60, 291
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_16
+  rotate: false
+  xy: 805, 436
+  size: 60, 291
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_17
+  rotate: false
+  xy: 805, 143
+  size: 60, 291
+  orig: 122, 310
+  offset: 62, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_18
+  rotate: false
+  xy: 867, 436
+  size: 59, 291
+  orig: 122, 310
+  offset: 63, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_19
+  rotate: false
+  xy: 867, 143
+  size: 59, 291
+  orig: 122, 310
+  offset: 63, 0
+  index: -1
+normo/mg_building_reflect/ui_bg_reflect_20
+  rotate: false
+  xy: 928, 436
+  size: 59, 291
+  orig: 122, 310
+  offset: 63, 0
+  index: -1

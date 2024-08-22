@@ -1,0 +1,764 @@
+
+freeend.png
+size: 2031,1882
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fstw_top_confetti/tw_vfx_b_normal_00
+  rotate: false
+  xy: 1254, 393
+  size: 418, 387
+  orig: 421, 428
+  offset: 3, 18
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_02
+  rotate: false
+  xy: 1, 1000
+  size: 416, 380
+  orig: 421, 428
+  offset: 5, 48
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_05
+  rotate: false
+  xy: 1260, 782
+  size: 416, 384
+  orig: 421, 428
+  offset: 5, 38
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_10
+  rotate: false
+  xy: 1, 209
+  size: 408, 401
+  orig: 421, 428
+  offset: 12, 27
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_12
+  rotate: false
+  xy: 929, 1211
+  size: 408, 378
+  orig: 421, 428
+  offset: 11, 48
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_13
+  rotate: false
+  xy: 1, 612
+  size: 408, 386
+  orig: 421, 428
+  offset: 11, 42
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_14
+  rotate: false
+  xy: 411, 157
+  size: 419, 388
+  orig: 421, 428
+  offset: 2, 40
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_16
+  rotate: false
+  xy: 1, 1382
+  size: 419, 376
+  orig: 421, 428
+  offset: 2, 48
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_17
+  rotate: false
+  xy: 411, 547
+  size: 419, 384
+  orig: 421, 428
+  offset: 2, 44
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_18
+  rotate: false
+  xy: 832, 438
+  size: 420, 386
+  orig: 421, 428
+  offset: 1, 42
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_23
+  rotate: false
+  xy: 839, 826
+  size: 419, 383
+  orig: 421, 428
+  offset: 2, 45
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_24
+  rotate: false
+  xy: 419, 933
+  size: 418, 380
+  orig: 421, 428
+  offset: 3, 44
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_25
+  rotate: false
+  xy: 832, 46
+  size: 418, 390
+  orig: 421, 428
+  offset: 3, 38
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_26
+  rotate: false
+  xy: 1252, 1
+  size: 419, 390
+  orig: 421, 428
+  offset: 2, 38
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_00
+  rotate: false
+  xy: 297, 1760
+  size: 141, 121
+  orig: 540, 600
+  offset: 210, 83
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_01
+  rotate: false
+  xy: 440, 1672
+  size: 275, 209
+  orig: 540, 600
+  offset: 137, 90
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_02
+  rotate: false
+  xy: 717, 1609
+  size: 392, 272
+  orig: 540, 600
+  offset: 76, 93
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_03
+  rotate: false
+  xy: 1545, 1549
+  size: 485, 332
+  orig: 540, 600
+  offset: 28, 93
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_04
+  rotate: false
+  xy: 1339, 1168
+  size: 493, 379
+  orig: 540, 600
+  offset: 47, 92
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_18
+  rotate: true
+  xy: 422, 1315
+  size: 292, 505
+  orig: 540, 600
+  offset: 77, 13
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_19
+  rotate: true
+  xy: 1111, 1591
+  size: 290, 432
+  orig: 540, 600
+  offset: 77, 30
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_20
+  rotate: true
+  xy: 1, 1769
+  size: 112, 294
+  orig: 540, 600
+  offset: 250, 68
+  index: -1
+
+freeend2.png
+size: 1684,2019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fstw_top_confetti/tw_vfx_b_normal_01
+  rotate: false
+  xy: 1, 830
+  size: 417, 399
+  orig: 421, 428
+  offset: 4, 29
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_03
+  rotate: false
+  xy: 420, 828
+  size: 416, 399
+  orig: 421, 428
+  offset: 5, 29
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_04
+  rotate: false
+  xy: 1251, 417
+  size: 416, 405
+  orig: 421, 428
+  offset: 5, 23
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_06
+  rotate: false
+  xy: 842, 1228
+  size: 412, 397
+  orig: 421, 428
+  offset: 9, 31
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_07
+  rotate: false
+  xy: 838, 827
+  size: 416, 399
+  orig: 421, 428
+  offset: 5, 25
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_08
+  rotate: false
+  xy: 845, 6
+  size: 416, 409
+  orig: 421, 428
+  offset: 5, 19
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_09
+  rotate: false
+  xy: 1263, 1
+  size: 416, 414
+  orig: 421, 428
+  offset: 5, 14
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_11
+  rotate: false
+  xy: 841, 419
+  size: 408, 406
+  orig: 421, 428
+  offset: 12, 22
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_15
+  rotate: false
+  xy: 1, 1231
+  size: 419, 394
+  orig: 421, 428
+  offset: 2, 34
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_19
+  rotate: false
+  xy: 1, 1627
+  size: 420, 391
+  orig: 421, 428
+  offset: 1, 37
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_20
+  rotate: false
+  xy: 1256, 1226
+  size: 418, 398
+  orig: 421, 428
+  offset: 3, 30
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_21
+  rotate: false
+  xy: 1, 16
+  size: 421, 405
+  orig: 421, 428
+  offset: 0, 23
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_22
+  rotate: false
+  xy: 424, 12
+  size: 419, 405
+  orig: 421, 428
+  offset: 2, 17
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_27
+  rotate: false
+  xy: 423, 1627
+  size: 419, 391
+  orig: 421, 428
+  offset: 2, 32
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_28
+  rotate: false
+  xy: 1264, 1626
+  size: 419, 392
+  orig: 421, 428
+  offset: 2, 36
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_29
+  rotate: false
+  xy: 422, 1229
+  size: 418, 396
+  orig: 421, 428
+  offset: 3, 32
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_30
+  rotate: false
+  xy: 1256, 824
+  size: 418, 400
+  orig: 421, 428
+  offset: 3, 28
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_31
+  rotate: false
+  xy: 421, 423
+  size: 418, 402
+  orig: 421, 428
+  offset: 3, 22
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_32
+  rotate: false
+  xy: 1, 425
+  size: 418, 401
+  orig: 421, 428
+  offset: 3, 17
+  index: -1
+fstw_top_confetti/tw_vfx_b_normal_33
+  rotate: false
+  xy: 844, 1627
+  size: 418, 391
+  orig: 421, 428
+  offset: 3, 22
+  index: -1
+
+freeend3.png
+size: 1912,1921
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fsttw_bg
+  rotate: false
+  xy: 1, 773
+  size: 529, 1147
+  orig: 529, 1147
+  offset: 0, 0
+  index: -1
+fsttw_lamp/tw_lights
+  rotate: false
+  xy: 532, 780
+  size: 529, 1140
+  orig: 529, 1147
+  offset: 0, 7
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_06
+  rotate: true
+  xy: 947, 244
+  size: 534, 439
+  orig: 540, 600
+  offset: 6, 91
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_07
+  rotate: true
+  xy: 1, 231
+  size: 540, 462
+  orig: 540, 600
+  offset: 0, 85
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_08
+  rotate: true
+  xy: 465, 236
+  size: 535, 480
+  orig: 540, 600
+  offset: 5, 78
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_13
+  rotate: false
+  xy: 1388, 1
+  size: 476, 517
+  orig: 540, 600
+  offset: 32, 42
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_14
+  rotate: true
+  xy: 1388, 520
+  size: 480, 519
+  orig: 540, 600
+  offset: 31, 33
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_15
+  rotate: true
+  xy: 1388, 1002
+  size: 483, 522
+  orig: 540, 600
+  offset: 30, 24
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_16
+  rotate: true
+  xy: 1388, 1487
+  size: 433, 523
+  orig: 540, 600
+  offset: 78, 15
+  index: -1
+
+freeend4.png
+size: 1526,936
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fstw_top_confetti_01/tw_vfx_a_normal_05
+  rotate: false
+  xy: 1, 516
+  size: 510, 419
+  orig: 540, 600
+  offset: 25, 87
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_09
+  rotate: false
+  xy: 512, 6
+  size: 497, 492
+  orig: 540, 600
+  offset: 0, 72
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_10
+  rotate: true
+  xy: 1022, 475
+  size: 460, 502
+  orig: 540, 600
+  offset: 41, 65
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_11
+  rotate: true
+  xy: 1, 49
+  size: 465, 509
+  orig: 540, 600
+  offset: 38, 57
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_12
+  rotate: true
+  xy: 1011, 1
+  size: 472, 514
+  orig: 540, 600
+  offset: 34, 49
+  index: -1
+fstw_top_confetti_01/tw_vfx_a_normal_17
+  rotate: true
+  xy: 513, 500
+  size: 435, 507
+  orig: 540, 600
+  offset: 78, 22
+  index: -1
+
+
+freeend5.jpg
+size: 1897,1915
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_tw_particle/tw_vfx_f_add_00
+  rotate: false
+  xy: 875, 894
+  size: 431, 414
+  orig: 432, 520
+  offset: 1, 40
+  index: -1
+fs_tw_particle/tw_vfx_f_add_01
+  rotate: true
+  xy: 855, 475
+  size: 417, 418
+  orig: 432, 520
+  offset: 15, 37
+  index: -1
+fs_tw_particle/tw_vfx_f_add_02
+  rotate: true
+  xy: 849, 52
+  size: 421, 422
+  orig: 432, 520
+  offset: 11, 34
+  index: -1
+fs_tw_particle/tw_vfx_f_add_03
+  rotate: false
+  xy: 1465, 1259
+  size: 431, 408
+  orig: 432, 520
+  offset: 1, 31
+  index: -1
+fs_tw_particle/tw_vfx_f_add_04
+  rotate: false
+  xy: 1308, 843
+  size: 432, 414
+  orig: 432, 520
+  offset: 0, 29
+  index: -1
+fs_tw_particle/tw_vfx_f_add_05
+  rotate: false
+  xy: 1273, 1
+  size: 432, 420
+  orig: 432, 520
+  offset: 0, 26
+  index: -1
+fs_tw_particle/tw_vfx_f_add_06
+  rotate: true
+  xy: 423, 98
+  size: 420, 424
+  orig: 432, 520
+  offset: 0, 23
+  index: -1
+fs_tw_particle/tw_vfx_f_add_08
+  rotate: true
+  xy: 1, 1004
+  size: 408, 432
+  orig: 432, 520
+  offset: 12, 19
+  index: -1
+fs_tw_particle/tw_vfx_f_add_09
+  rotate: true
+  xy: 1027, 1310
+  size: 406, 436
+  orig: 432, 520
+  offset: 12, 18
+  index: -1
+fs_tw_particle/tw_vfx_f_add_10
+  rotate: true
+  xy: 435, 936
+  size: 410, 438
+  orig: 432, 520
+  offset: 10, 17
+  index: -1
+fs_tw_particle/tw_vfx_f_add_11
+  rotate: true
+  xy: 1, 588
+  size: 414, 420
+  orig: 432, 520
+  offset: 8, 37
+  index: -1
+fs_tw_particle/tw_vfx_f_add_12
+  rotate: true
+  xy: 1275, 423
+  size: 418, 420
+  orig: 432, 520
+  offset: 6, 37
+  index: -1
+fs_tw_particle/tw_vfx_f_add_13
+  rotate: true
+  xy: 1, 164
+  size: 422, 420
+  orig: 432, 520
+  offset: 3, 36
+  index: -1
+fs_tw_particle/tw_vfx_f_add_15
+  rotate: false
+  xy: 423, 520
+  size: 430, 414
+  orig: 432, 520
+  offset: 1, 43
+  index: -1
+fsttw_appear_particle/fsw_particle_add_00
+  rotate: true
+  xy: 1, 1786
+  size: 128, 135
+  orig: 206, 219
+  offset: 45, 42
+  index: -1
+fsttw_appear_particle/fsw_particle_add_01
+  rotate: true
+  xy: 138, 1778
+  size: 136, 151
+  orig: 206, 219
+  offset: 38, 38
+  index: -1
+fsttw_appear_particle/fsw_particle_add_02
+  rotate: true
+  xy: 291, 1766
+  size: 148, 159
+  orig: 206, 219
+  offset: 33, 29
+  index: -1
+fsttw_appear_particle/fsw_particle_add_03
+  rotate: true
+  xy: 624, 1754
+  size: 160, 175
+  orig: 206, 219
+  offset: 26, 20
+  index: -1
+fsttw_appear_particle/fsw_particle_add_04
+  rotate: true
+  xy: 801, 1740
+  size: 174, 189
+  orig: 206, 219
+  offset: 18, 11
+  index: -1
+fsttw_appear_particle/fsw_particle_add_05
+  rotate: true
+  xy: 992, 1738
+  size: 176, 189
+  orig: 206, 219
+  offset: 15, 6
+  index: -1
+fsttw_appear_particle/fsw_particle_add_06
+  rotate: false
+  xy: 452, 1759
+  size: 170, 155
+  orig: 206, 219
+  offset: 18, 8
+  index: -1
+fstw_confetti/fsw_confetti_add_00
+  rotate: true
+  xy: 1, 1484
+  size: 292, 286
+  orig: 756, 700
+  offset: 224, 214
+  index: -1
+fstw_confetti/fsw_confetti_add_01
+  rotate: false
+  xy: 289, 1414
+  size: 344, 338
+  orig: 756, 700
+  offset: 201, 187
+  index: -1
+fstw_confetti/fsw_confetti_add_02
+  rotate: false
+  xy: 635, 1348
+  size: 390, 388
+  orig: 756, 700
+  offset: 180, 160
+  index: -1
+glow/tw_vfx_d_screen
+  rotate: false
+  xy: 1535, 1669
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+glow/tw_vfx_e_screen
+  rotate: false
+  xy: 1183, 1718
+  size: 350, 196
+  orig: 350, 196
+  offset: 0, 0
+  index: -1
+
+freeend52.jpg
+size: 1830,1714
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fsttw_lamp_light/tw_vfx_i_screen
+  rotate: false
+  xy: 1, 543
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+fsttw_lamp_light_01/tw_vfx_h_screen
+  rotate: true
+  xy: 1, 1
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+fstw_confetti/fsw_confetti_add_12
+  rotate: true
+  xy: 543, 1099
+  size: 614, 608
+  orig: 756, 700
+  offset: 100, 42
+  index: -1
+fstw_confetti/fsw_confetti_add_13
+  rotate: false
+  xy: 1203, 575
+  size: 626, 562
+  orig: 756, 700
+  offset: 93, 33
+  index: -1
+fstw_confetti/fsw_confetti_add_14
+  rotate: false
+  xy: 1173, 1
+  size: 640, 568
+  orig: 756, 700
+  offset: 87, 25
+  index: -1
+fstw_confetti/fsw_confetti_add_15
+  rotate: false
+  xy: 1153, 1139
+  size: 650, 574
+  orig: 756, 700
+  offset: 84, 17
+  index: -1
+fstw_confetti/fsw_confetti_add_16
+  rotate: false
+  xy: 543, 571
+  size: 658, 526
+  orig: 756, 700
+  offset: 83, 61
+  index: -1
+
+freeend53.jpg
+size: 2020,2036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_tw_particle/tw_vfx_f_add_07
+  rotate: false
+  xy: 1481, 3
+  size: 422, 430
+  orig: 432, 520
+  offset: 0, 20
+  index: -1
+fs_tw_particle/tw_vfx_f_add_14
+  rotate: true
+  xy: 1599, 509
+  size: 426, 420
+  orig: 432, 520
+  offset: 2, 36
+  index: -1
+fstw_confetti/fsw_confetti_add_03
+  rotate: true
+  xy: 1045, 3
+  size: 430, 434
+  orig: 756, 700
+  offset: 163, 136
+  index: -1
+fstw_confetti/fsw_confetti_add_04
+  rotate: false
+  xy: 577, 1
+  size: 466, 472
+  orig: 756, 700
+  offset: 147, 115
+  index: -1
+fstw_confetti/fsw_confetti_add_05
+  rotate: true
+  xy: 587, 475
+  size: 498, 508
+  orig: 756, 700
+  offset: 133, 95
+  index: -1
+fstw_confetti/fsw_confetti_add_06
+  rotate: true
+  xy: 1169, 937
+  size: 528, 540
+  orig: 756, 700
+  offset: 120, 77
+  index: -1
+fstw_confetti/fsw_confetti_add_07
+  rotate: true
+  xy: 603, 975
+  size: 554, 564
+  orig: 756, 700
+  offset: 108, 64
+  index: -1
+fstw_confetti/fsw_confetti_add_08
+  rotate: false
+  xy: 1, 245
+  size: 574, 586
+  orig: 756, 700
+  offset: 101, 52
+  index: -1
+fstw_confetti/fsw_confetti_add_09
+  rotate: false
+  xy: 1269, 1467
+  size: 590, 568
+  orig: 756, 700
+  offset: 97, 75
+  index: -1
+fstw_confetti/fsw_confetti_add_10
+  rotate: true
+  xy: 1, 833
+  size: 604, 584
+  orig: 756, 700
+  offset: 93, 63
+  index: -1
+fstw_confetti/fsw_confetti_add_11
+  rotate: false
+  xy: 1, 1439
+  size: 600, 596
+  orig: 756, 700
+  offset: 106, 52
+  index: -1
+fstw_confetti/fsw_confetti_add_17
+  rotate: false
+  xy: 603, 1531
+  size: 664, 504
+  orig: 756, 700
+  offset: 83, 56
+  index: -1
+glow/tw_vfx_c_screen
+  rotate: false
+  xy: 1097, 435
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,223 @@
+
+free_start.png
+size: 1833,947
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_start_staticbg/bl_bg
+  rotate: false
+  xy: 1, 36
+  size: 529, 910
+  orig: 529, 917
+  offset: 0, 7
+  index: -1
+fs_start_waterwave/bg_river_00
+  rotate: false
+  xy: 966, 475
+  size: 432, 234
+  orig: 432, 235
+  offset: 0, 0
+  index: -1
+fs_start_waterwave/bg_river_01
+  rotate: false
+  xy: 1400, 712
+  size: 432, 234
+  orig: 432, 235
+  offset: 0, 0
+  index: -1
+fs_start_waterwave/bg_river_02
+  rotate: false
+  xy: 966, 239
+  size: 432, 234
+  orig: 432, 235
+  offset: 0, 0
+  index: -1
+fs_start_waterwave/bg_river_03
+  rotate: false
+  xy: 1400, 476
+  size: 432, 234
+  orig: 432, 235
+  offset: 0, 0
+  index: -1
+fs_start_waterwave/bg_river_04
+  rotate: false
+  xy: 532, 711
+  size: 432, 235
+  orig: 432, 235
+  offset: 0, 0
+  index: -1
+fs_start_waterwave/bg_river_05
+  rotate: false
+  xy: 532, 474
+  size: 432, 235
+  orig: 432, 235
+  offset: 0, 0
+  index: -1
+fs_start_waterwave/bg_river_06
+  rotate: false
+  xy: 966, 711
+  size: 432, 235
+  orig: 432, 235
+  offset: 0, 0
+  index: -1
+fs_start_waterwave/bg_river_07
+  rotate: false
+  xy: 532, 237
+  size: 432, 235
+  orig: 432, 235
+  offset: 0, 0
+  index: -1
+fs_start_waterwave/bg_river_08
+  rotate: false
+  xy: 1400, 240
+  size: 432, 234
+  orig: 432, 235
+  offset: 0, 0
+  index: -1
+fs_start_waterwave/bg_river_09
+  rotate: false
+  xy: 532, 1
+  size: 432, 234
+  orig: 432, 235
+  offset: 0, 0
+  index: -1
+fs_start_waterwave/bg_river_10
+  rotate: false
+  xy: 966, 3
+  size: 432, 234
+  orig: 432, 235
+  offset: 0, 0
+  index: -1
+fs_start_waterwave/bg_river_11
+  rotate: false
+  xy: 1400, 4
+  size: 432, 234
+  orig: 432, 235
+  offset: 0, 0
+  index: -1
+
+
+free_start2.jpg
+size: 1509,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_button_hover/bl_vfx_f_add_00
+  rotate: false
+  xy: 1206, 393
+  size: 169, 189
+  orig: 445, 199
+  offset: 138, 6
+  index: -1
+fs_button_hover/bl_vfx_f_add_01
+  rotate: false
+  xy: 1206, 202
+  size: 247, 189
+  orig: 445, 199
+  offset: 99, 6
+  index: -1
+fs_button_hover/bl_vfx_f_add_02
+  rotate: false
+  xy: 721, 23
+  size: 357, 181
+  orig: 445, 199
+  offset: 44, 10
+  index: -1
+fs_button_hover/bl_vfx_f_add_03
+  rotate: true
+  xy: 1206, 584
+  size: 435, 171
+  orig: 445, 199
+  offset: 6, 15
+  index: -1
+fs_button_hover/bl_vfx_f_add_04
+  rotate: false
+  xy: 759, 848
+  size: 445, 171
+  orig: 445, 199
+  offset: 0, 15
+  index: -1
+fs_button_hover/bl_vfx_f_add_05
+  rotate: false
+  xy: 759, 675
+  size: 445, 171
+  orig: 445, 199
+  offset: 0, 15
+  index: -1
+fs_button_hover/bl_vfx_f_add_06
+  rotate: false
+  xy: 759, 504
+  size: 445, 169
+  orig: 445, 199
+  offset: 0, 16
+  index: -1
+fs_button_hover/bl_vfx_f_add_07
+  rotate: false
+  xy: 759, 345
+  size: 445, 157
+  orig: 445, 199
+  offset: 0, 22
+  index: -1
+fs_button_hover/bl_vfx_f_add_08
+  rotate: false
+  xy: 759, 206
+  size: 445, 137
+  orig: 445, 199
+  offset: 0, 32
+  index: -1
+fs_button_hover/bl_vfx_f_add_09
+  rotate: true
+  xy: 1379, 578
+  size: 441, 129
+  orig: 445, 199
+  offset: 3, 36
+  index: -1
+glow/bl_vfx_c_add
+  rotate: false
+  xy: 1, 318
+  size: 756, 701
+  orig: 756, 701
+  offset: 0, 0
+  index: -1
+glow/bl_vfx_e_add_01
+  rotate: true
+  xy: 1080, 1
+  size: 199, 251
+  orig: 199, 251
+  offset: 0, 0
+  index: -1
+glow/bl_vfx_e_add_02
+  rotate: false
+  xy: 1333, 23
+  size: 143, 177
+  orig: 143, 177
+  offset: 0, 0
+  index: -1
+glow/bl_vfx_e_add_03
+  rotate: true
+  xy: 1, 19
+  size: 297, 386
+  orig: 297, 386
+  offset: 0, 0
+  index: -1
+glow/bl_vfx_e_add_04
+  rotate: false
+  xy: 389, 101
+  size: 330, 215
+  orig: 330, 215
+  offset: 0, 0
+  index: -1
+glow/ps_vfx_d_add_02
+  rotate: false
+  xy: 1377, 431
+  size: 88, 145
+  orig: 88, 145
+  offset: 0, 0
+  index: -1
+glow/tw_particle_a_screen
+  rotate: false
+  xy: 389, 21
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1

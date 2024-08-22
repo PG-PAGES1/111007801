@@ -1,0 +1,349 @@
+
+button.jpg
+size: 1905,1103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+autosb_swlight/sb_auto_sweep_00
+  rotate: true
+  xy: 1205, 101
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+autosb_swlight/sb_auto_sweep_01
+  rotate: true
+  xy: 1349, 307
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+autosb_swlight/sb_auto_sweep_02
+  rotate: true
+  xy: 1373, 513
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+autosb_swlight/sb_auto_sweep_03
+  rotate: true
+  xy: 1505, 745
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+autosb_swlight/sb_auto_sweep_04
+  rotate: true
+  xy: 1547, 925
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+autosb_swlight/sb_auto_sweep_05
+  rotate: true
+  xy: 1379, 128
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+autosb_swlight/sb_auto_sweep_06
+  rotate: true
+  xy: 1523, 334
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+autosb_swlight/sb_auto_sweep_07
+  rotate: true
+  xy: 1547, 566
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+autosb_swlight/sb_auto_sweep_08
+  rotate: true
+  xy: 1679, 746
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+autosb_swlight/sb_auto_sweep_09
+  rotate: true
+  xy: 1721, 925
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+autosb_swlight/sb_auto_sweep_10
+  rotate: true
+  xy: 1553, 155
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+autosb_swlight/sb_auto_sweep_11
+  rotate: false
+  xy: 1697, 392
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+autosb_swlight/sb_auto_sweep_12
+  rotate: true
+  xy: 1721, 567
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+autosb_swlight/sb_auto_sweep_13
+  rotate: false
+  xy: 1727, 218
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+autosb_swlight/sb_auto_sweep_14
+  rotate: false
+  xy: 1727, 44
+  size: 177, 172
+  orig: 177, 173
+  offset: 0, 1
+  index: -1
+glow/sb_auto_glow_screen
+  rotate: false
+  xy: 667, 396
+  size: 208, 214
+  orig: 208, 214
+  offset: 0, 0
+  index: -1
+glow/sb_spin_glow_screen
+  rotate: false
+  xy: 477, 364
+  size: 188, 246
+  orig: 188, 246
+  offset: 0, 0
+  index: -1
+glow/sb_vfx_c_screen
+  rotate: false
+  xy: 697, 640
+  size: 190, 230
+  orig: 190, 230
+  offset: 0, 0
+  index: -1
+glow/sb_vfx_d_screen
+  rotate: false
+  xy: 1, 37
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+sb_click_particle/sb_vfx_a_add_00
+  rotate: true
+  xy: 1553, 1
+  size: 152, 160
+  orig: 270, 270
+  offset: 51, 60
+  index: -1
+sb_click_particle/sb_vfx_a_add_01
+  rotate: true
+  xy: 1371, 924
+  size: 178, 174
+  orig: 270, 270
+  offset: 44, 54
+  index: -1
+sb_click_particle/sb_vfx_a_add_02
+  rotate: true
+  xy: 877, 442
+  size: 196, 186
+  orig: 270, 270
+  offset: 37, 48
+  index: -1
+sb_click_particle/sb_vfx_a_add_03
+  rotate: true
+  xy: 691, 184
+  size: 210, 194
+  orig: 270, 270
+  offset: 30, 44
+  index: -1
+sb_click_particle/sb_vfx_a_add_04
+  rotate: true
+  xy: 485, 142
+  size: 220, 204
+  orig: 270, 270
+  offset: 26, 40
+  index: -1
+sb_click_particle/sb_vfx_a_add_05
+  rotate: true
+  xy: 695, 872
+  size: 230, 212
+  orig: 270, 270
+  offset: 21, 36
+  index: -1
+sb_click_particle/sb_vfx_a_add_06
+  rotate: true
+  xy: 477, 612
+  size: 240, 218
+  orig: 270, 270
+  offset: 16, 33
+  index: -1
+sb_click_particle/sb_vfx_a_add_07
+  rotate: true
+  xy: 471, 854
+  size: 248, 222
+  orig: 270, 270
+  offset: 12, 31
+  index: -1
+sb_click_particle/sb_vfx_a_add_08
+  rotate: true
+  xy: 243, 846
+  size: 256, 226
+  orig: 270, 270
+  offset: 8, 30
+  index: -1
+sb_click_particle/sb_vfx_a_add_09
+  rotate: true
+  xy: 253, 30
+  size: 260, 230
+  orig: 270, 270
+  offset: 6, 28
+  index: -1
+sb_click_particle/sb_vfx_a_add_10
+  rotate: true
+  xy: 241, 292
+  size: 266, 234
+  orig: 270, 270
+  offset: 3, 27
+  index: -1
+sb_click_particle/sb_vfx_a_add_11
+  rotate: true
+  xy: 1, 289
+  size: 269, 238
+  orig: 270, 270
+  offset: 1, 25
+  index: -1
+sb_click_particle/sb_vfx_a_add_12
+  rotate: true
+  xy: 1, 832
+  size: 270, 240
+  orig: 270, 270
+  offset: 0, 24
+  index: -1
+sb_click_particle/sb_vfx_a_add_13
+  rotate: true
+  xy: 1, 560
+  size: 270, 240
+  orig: 270, 270
+  offset: 0, 24
+  index: -1
+sb_click_particle/sb_vfx_a_add_14
+  rotate: false
+  xy: 243, 600
+  size: 232, 244
+  orig: 270, 270
+  offset: 0, 23
+  index: -1
+sb_swlight/sb_spin_sweep_00
+  rotate: true
+  xy: 691, 30
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+sb_swlight/sb_spin_sweep_01
+  rotate: false
+  xy: 889, 666
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+sb_swlight/sb_spin_sweep_02
+  rotate: false
+  xy: 909, 898
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+sb_swlight/sb_spin_sweep_03
+  rotate: false
+  xy: 1043, 692
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+sb_swlight/sb_spin_sweep_04
+  rotate: false
+  xy: 1063, 898
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+sb_swlight/sb_spin_sweep_05
+  rotate: false
+  xy: 887, 236
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+sb_swlight/sb_spin_sweep_06
+  rotate: false
+  xy: 897, 30
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+sb_swlight/sb_spin_sweep_07
+  rotate: false
+  xy: 1041, 236
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+sb_swlight/sb_spin_sweep_08
+  rotate: false
+  xy: 1051, 30
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+sb_swlight/sb_spin_sweep_09
+  rotate: false
+  xy: 1065, 486
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+sb_swlight/sb_spin_sweep_10
+  rotate: false
+  xy: 1197, 692
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+sb_swlight/sb_spin_sweep_11
+  rotate: false
+  xy: 1217, 898
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+sb_swlight/sb_spin_sweep_12
+  rotate: false
+  xy: 1195, 280
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+sb_swlight/sb_spin_sweep_13
+  rotate: false
+  xy: 1219, 486
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+sb_swlight/sb_spin_sweep_14
+  rotate: false
+  xy: 1351, 692
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
